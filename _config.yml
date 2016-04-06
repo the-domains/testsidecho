@@ -1,7 +1,7 @@
 name: Testsidecho
 favicon: null
-layout_spectrum: 0.8187490694690496
-typography_spectrum: 0.15805358532816172
+layout_spectrum: 1
+typography_spectrum: 0.86914
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#e5eaee'
+    - '#ffffff'
+    - '#0f806c'
+    - '#1d6387'
+    - '#86a8cd'
   brandStrength: 0.8764424088876694
-  lightness: 0.15438720118254423
-  saturation: 0.5893647545017302
-  rhythmicContrast: 0.12156740739010274
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
